@@ -92,6 +92,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImageChecker.cs" />
+    <Compile Include="LogManager.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
